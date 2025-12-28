@@ -1,4 +1,4 @@
-#Escreva um prqograma que leia dois nmeros inteiros e exiba a soma, subtrao, multiplicao e divisao dos dois nmeros. 
+#Escreva um prqograma que leia dois nmeros inteiros e exiba a soma, subtrao, multiplicao e divisao dos dois números. 
 n1 = int(input("Digite o primeiro número a ser operado: "))
 n2 = int(input("Digite o segundo número a ser operado: "))
 operation = input("Digite a operação que deseja realizar:\nsoma(+)\nsubtração(-)\nmultiplicação(*)\ndivisão(/)\n")
